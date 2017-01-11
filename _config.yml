@@ -1,0 +1,8 @@
+title: Spatial Media
+description: Specifications and tools for 360º video and spatial audio.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
